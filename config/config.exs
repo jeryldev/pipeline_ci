@@ -61,7 +61,7 @@ config :logger, :console,
 # Use Jason for JSON parsing in Phoenix
 config :phoenix, :json_library, Jason
 
-if Mix.env == "dev" do
+if Mix.env() == "dev" do
   config :mix_test_watch,
     tasks: [
       "test",
