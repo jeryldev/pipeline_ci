@@ -1,5 +1,3 @@
-#.sobelow.conf
-
 [
   verbose: false,
   private: false,
