@@ -5,6 +5,7 @@
     "lib/pipeline_ci_web/telemetry.ex",
     "lib/pipeline_ci_web/router.ex",
     "lib/pipeline_ci_web/views/error_helpers.ex",
+    "lib/pipeline_ci_web/components/core_components.ex",
     "test/support/data_case.ex"
   ],
   "coverage_options": {
